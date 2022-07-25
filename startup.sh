@@ -42,7 +42,6 @@ brew cask install font-hack-nerd-font
 # 安裝 iTerm2
 brew cask install iterm2
 
-
 # ======================== #
 # === Vim ================ #
 # ======================== #
@@ -76,6 +75,21 @@ git clone https://github.com/zsh-users/zsh-syntax-highlighting.git ${ZSH_CUSTOM:
 git clone https://github.com/zsh-users/zsh-autosuggestions ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-autosuggestions
 # 安裝 zsh-vi-mode
 git clone https://github.com/jeffreytse/zsh-vi-mode ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-vi-mode
+
+# ======================== #
+# === rectangle  ========= #
+# ======================== #
+brew install --cask rectangle
+
+# ======================== #
+# === appcleaner  ======== #
+# ======================== #
+brew install --cask appcleaner
+
+# ======================== #
+# === cheatsheet  ======== #
+# ======================== #
+brew install --cask cheatsheet
 
 # ======================== #
 # === 啟動iTerm ========== #

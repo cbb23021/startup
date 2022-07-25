@@ -4,6 +4,9 @@
 
 ### log
 
+#### 2022-07-25
+
+- Add rectangle, appclear and cheatsheet
 
 #### 2022-04-13
 
